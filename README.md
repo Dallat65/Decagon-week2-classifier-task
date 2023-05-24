@@ -32,7 +32,7 @@ Your file would be typechecked when you run the test. This project is already co
 
 # Classifier
 
-Given an input containing a list of students' names, dates of birth, and their registration number.
+Given an input containing a list of students' names, dates of birth, and their registration number.  
 
 Write a program that classifies the students into groups where
 
